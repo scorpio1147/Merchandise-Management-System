@@ -1,0 +1,8 @@
+shoe
+username
+shirt
+100.0
+shoe
+username
+air jordan 1
+100.0
